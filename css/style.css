@@ -1987,6 +1987,9 @@ ul.footer-list li a:hover {
 	.contact-shape {
 		left: -15%;
 	}
+	#main-footer {
+		padding-left: 2rem !important;
+	}
 }
 
 /* TODO ************************************** extra small mobile **********************************************/
